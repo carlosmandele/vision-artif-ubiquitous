@@ -1,4 +1,4 @@
-# Visualização de Imagens com Matplotlib
+# Visualização de imagens com Matplotlib
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-blue?logo=Matplotlib)](#)
 
 ##### Copyright (c) 2026, KALOMBOLA, C. M.
